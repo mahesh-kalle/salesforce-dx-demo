@@ -1,4 +1,6 @@
 <aura:component>
     <h2>Hello World VS Code....</h2>
     <h2>Updated using Dev Console</h2>
+
+    <h3> This to test the git commit using vs code terminal</h3>
 </aura:component>
