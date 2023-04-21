@@ -4,4 +4,6 @@
 
     <h3> This to test the git commit using vs code terminal</h3>
     <h3>Added some more text to test short cuts</h3>
+    
+    <h4>Added again from dev console</h4>
 </aura:component>
